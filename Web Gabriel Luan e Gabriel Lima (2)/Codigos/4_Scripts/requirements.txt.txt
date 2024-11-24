@@ -1,0 +1,10 @@
+pandas
+flask
+selenium
+matplotlib.pyplot
+seaborn
+plotly.express
+matplotlib.pyplot
+missingno
+unidecode
+numpy
